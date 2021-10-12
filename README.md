@@ -30,7 +30,7 @@ Implicit Casting | ? | ? | ?
 Explicit Casting | ? | ? | ?
 Type Conversion | ? | ? | ?
 `Convert.ToInt32` | ? | ? | ?
-Operators | ? | ? | ?
+Operators | operate on values e.g unary, binary, ternary values. Examples:  | ? | ?
 Arithmetic Operators | ? | ? | ?
 `+` | ? | ? | ?
 `-` | ? | ? | ?
